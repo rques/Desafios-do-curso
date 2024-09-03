@@ -1,0 +1,12 @@
+img{
+    width: 450px;
+    height: 300px;
+    margin-left: 33%;
+}
+body{
+    background-color: rgba(231, 163, 174, 0.938);
+}
+h1{
+    margin-left: 36%;
+    font-size: 50px;
+}
